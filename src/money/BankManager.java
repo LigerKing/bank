@@ -10,6 +10,7 @@ import javax.swing.JTextField;
 import java.awt.Font;
 import javax.swing.SwingConstants;
 import javax.swing.JButton;
+import javax.swing.JScrollBar;
 
 public class BankManager extends JFrame implements ActionListener {
 	private JTextField id;
